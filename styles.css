@@ -63,6 +63,7 @@ main {
 }
 
 button {
+    margin-top: 10px;
     width: 200px;
     padding: 10px 20px;
     font-family: Inter;
